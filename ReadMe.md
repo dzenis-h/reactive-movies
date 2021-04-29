@@ -42,15 +42,15 @@
 
 ---
 
-> ##### Note on not using TypeScript:
+> #### Note on not using TypeScript:
 
 I have to admit that I’m way better at JavaScript than in TypeScript. When it comes to TS, I am familiar with it, but still, I’m a newbie. That's why I decided not to use it on this occasion and take my chances with delivering a project that uses JS instead. If you give me the opportunity, I could learn it on the job or in my free time. I promise that I will.
 
-> ##### Note on testing:
+> #### Note on testing:
 
 My journey working as a freelancer didn’t involve automated testing. Every time I created something, I did the testing manually. That’s definitely going to change in the near future. As a matter of fact, I already started learning and wrote few tests regarding this project. I just hope they won't crash your computer. :) Same as with TypeScript, if you give me chance, I could learn it in a quick manner, either on the job or in my free time.
 
-> ##### Note on CSS framework used:
+> #### Note on CSS framework used:
 
 I used MaterializeCSS in order to put something together in an ASAP fashion and focus more on the functionality. The reason is not that I’m bad at CSS3. The truth is, I'm competent when it comes to it and I hope I’ll get the chance to showcase my skills by working for your company. Nevertheless, the source code contains custom CSS especially when it comes to creating a fully responsive web app (check out the media queries).
 
