@@ -1,0 +1,12 @@
+node_modules
+build
+
+# config
+src/config/config-prod.js
+
+# firebase config files
+.firebaserc
+firebase.json
+debug.log
+.firebase
+
