@@ -53,7 +53,6 @@ My journey working as a freelancer didn’t involve automated testing. Every tim
 > #### Note on CSS framework used:
 
 I used MaterializeCSS in order to put something together in an ASAP fashion and focus more on the functionality. The reason is not that I’m bad at CSS3. The truth is, I'm competent when it comes to it and I hope I’ll get the chance to showcase my skills by working for your company. Nevertheless, the source code contains custom CSS especially when it comes to creating a fully responsive web app (check out the media queries).
----
 
 <img src="https://github.com/BiggaHD/rubicon-movies/blob/master/final.jpg" height="500" width="1200">
 
