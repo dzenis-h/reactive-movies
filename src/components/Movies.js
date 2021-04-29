@@ -76,7 +76,6 @@ const Movies = (props) => {
                   className="responsive-img"
                   src={img_path + movie.poster_path}
                   alt={movie.title}
-                  id="moves-landscape"
                 />
               </Link>
             );
