@@ -26,7 +26,7 @@ const Header = () => {
             />
           </Link>
           <b className="left brand-logo" style={myStyle}>
-            Rubicon Movies
+            Reactive Movies
           </b>
 
           <ul className="right" style={{ marginRight: '1rem' }}>

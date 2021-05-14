@@ -10,7 +10,7 @@ test('renders the name of the app', () => {
       <Header />
     </BrowserRouter>
   );
-  expect(getByText('Rubicon Movies')).toBeInTheDocument();
+  expect(getByText('Reactive Movies')).toBeInTheDocument();
 });
 
 test('to see if there is a TV button', () => {
