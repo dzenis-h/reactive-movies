@@ -38,7 +38,7 @@
 ---
 
 > The app is deployed on Firebase:
-> https://Reactive-movies.firebaseapp.com
+> https://reactive-movies.firebaseapp.com
 
 ---
 
