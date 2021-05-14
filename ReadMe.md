@@ -1,4 +1,4 @@
-## Reactive Movies
+## Rubicon Movies
 
 ---
 
@@ -17,15 +17,15 @@
 ##### The project's components are split into 3 categories:
 
 - **Class-based components:**
-  o MovieDetails
-  o TvDetails
+  - MovieDetails
+  - TvDetails
 - **Functional components which use the HOOKS system:**
-  o Tv
-  o Movies
-  o Home
+  - Tv
+  - Movies
+  - Home
 - **Stateless/ presentational component:**
-  o Header
-  o App
+  - Header
+  - App
 
 ---
 
