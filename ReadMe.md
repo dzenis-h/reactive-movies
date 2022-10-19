@@ -42,4 +42,4 @@
 
 ---
 
-<img src="https://github.com/BiggaHD/Reactiven-movies/blob/master/final.svg" height="450" width="600">
+<img src="https://github.com/BiggaHD/reactive-movies/blob/master/final.jpg" height="480" width="900">
