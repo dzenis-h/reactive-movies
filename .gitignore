@@ -3,10 +3,11 @@ build
 
 # config
 src/config/config-prod.js
+src/config/config.js
 
 # firebase config files
 .firebaserc
 firebase.json
 debug.log
-.firebase
+.firebase/*
 
