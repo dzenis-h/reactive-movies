@@ -1,6 +1,7 @@
 ##
 
 <img src="https://raw.githubusercontent.com/dzenis-h/reactive-movies/master/public/favicon.ico" alt="app logo" width="32" height="32" style="padding-right: 5px"> Rubicon Movies
+##
 
 ## Overview 📝 ##
 
